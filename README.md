@@ -14,7 +14,7 @@ MLAV is meant to be music player that dynamically displays the lyrics of the son
 The program will support uncompressed audio, like .wav and .flac files, as well as other formats, like mp3, aac, and ogg.
 The application will render different audio visualizers for the current song and will try to incorporate lyrics into the visualizer.
 
-![Image of running app](https://github.com/Rexboy909/Advanced_Progreamming_Portfolio_25-26/blob/images/image.png)
+![Image of running app](images/image.png)
 [Source](assets/Images/assignment_files)
 
 [Repo](https://github.com/Rexboy909/MLAV)
