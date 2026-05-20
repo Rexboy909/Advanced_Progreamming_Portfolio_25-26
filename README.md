@@ -67,8 +67,9 @@ An object-oriented calculator with graphical interface and full keyboard functio
 - Computer Programming, Advanced — YouScience Industry Certification
 - Computer Programming 2: Java — YouScience Industry Certification
 - Computer Programming 2: C# — YouScience Industry Certification
+- Computer Programming 2: C++ — YouScience Industry Certification
+- Computer Programming 2: Python — YouScience Industry Certification
 - Computer Programming 1 — YouScience Industry Certification
-- Exploring Computer Science — YouScience Industry Certification
 
 ---
 
