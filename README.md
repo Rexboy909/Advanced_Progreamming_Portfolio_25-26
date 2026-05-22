@@ -51,14 +51,14 @@ A responsive weather application providing real-time weather data with intuitive
 
 A space-themed arcade game featuring collision detection, progressive level system, and dynamic gameplay mechanics.
 
-→ [Repository](https://github.com/Rexboy909/Programming_Portfolio/tree/main/src/Term_1/SpaceGame)
+→ [Repository](https://github.com/Rexboy909/Programming-Portfolio/tree/main/src/Term_1/SpaceGame)
 
 ### Calculator
 **Processing** | OOP | GUI Development | 2024
 
 An object-oriented calculator with graphical interface and full keyboard functionality demonstrating clean architecture and event handling.
 
-→ [Repository](https://github.com/Rexboy909/Programming_Portfolio/tree/main/src/Term_1/Calculator)
+→ [Repository](https://github.com/Rexboy909/Programming-Portfolio/tree/main/src/Term_1/Calculator)
 
 ---
 
